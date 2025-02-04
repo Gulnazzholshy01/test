@@ -1,4 +1,0 @@
---- 192.168.1.175 ping statistics ---
-100000 packets transmitted, 90383 received, +9617 duplicates, 9.617% packet loss, time 628340ms
-rtt min/avg/max/mdev = 3.154/41.044/980.592/127.310 ms, pipe 87, ipg/ewma 6.283/5.069 ms
-
