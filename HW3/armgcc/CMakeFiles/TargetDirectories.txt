@@ -1,0 +1,3 @@
+/home/user/Downloads/sdk2/boards/frdmrw612/wifi_examples/wifi_httpsrv/armgcc/CMakeFiles/wifi_httpsrv.elf.dir
+/home/user/Downloads/sdk2/boards/frdmrw612/wifi_examples/wifi_httpsrv/armgcc/CMakeFiles/edit_cache.dir
+/home/user/Downloads/sdk2/boards/frdmrw612/wifi_examples/wifi_httpsrv/armgcc/CMakeFiles/rebuild_cache.dir

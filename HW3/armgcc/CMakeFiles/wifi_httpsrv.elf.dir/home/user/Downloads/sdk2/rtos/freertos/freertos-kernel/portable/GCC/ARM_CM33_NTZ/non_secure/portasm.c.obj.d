@@ -1,0 +1,24 @@
+CMakeFiles/wifi_httpsrv.elf.dir/home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c.obj: \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.c \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/FreeRTOS.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stddef.h \
+ /home/user/Downloads/sdk2/boards/frdmrw612/wifi_examples/wifi_httpsrv/armgcc/../FreeRTOSConfig.h \
+ /home/user/Downloads/sdk2/devices/RW612/./fsl_device_registers.h \
+ /home/user/Downloads/sdk2/devices/RW612/./RW612.h \
+ /home/user/Downloads/sdk2/CMSIS/Core/Include/./core_cm33.h \
+ /home/user/Downloads/sdk2/CMSIS/Core/Include/./cmsis_version.h \
+ /home/user/Downloads/sdk2/CMSIS/Core/Include/./cmsis_compiler.h \
+ /home/user/Downloads/sdk2/CMSIS/Core/Include/./cmsis_gcc.h \
+ /home/user/Downloads/sdk2/CMSIS/Core/Include/./mpu_armv8.h \
+ /home/user/Downloads/sdk2/devices/RW612/./system_RW612.h \
+ /home/user/Downloads/sdk2/devices/RW612/./RW612_features.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/projdefs.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/portable.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/deprecated_definitions.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portmacro.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portmacrocommon.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/mpu_wrappers.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/mpu_wrappers.h \
+ /home/user/Downloads/sdk2/rtos/freertos/freertos-kernel/include/mpu_syscall_numbers.h

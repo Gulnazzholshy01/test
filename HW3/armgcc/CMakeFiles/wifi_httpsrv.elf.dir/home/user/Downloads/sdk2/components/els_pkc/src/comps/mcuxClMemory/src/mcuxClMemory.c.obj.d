@@ -1,0 +1,29 @@
+CMakeFiles/wifi_httpsrv.elf.dir/home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c.obj: \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/src/mcuxClMemory.c \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/platforms/rw61x/mcuxClConfig.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslFlowProtection/inc/mcuxCsslFlowProtection.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslCPreProcessor/inc/mcuxCsslAnalysis.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslFlowProtection/inc/mcuxCsslFlowProtection_Impl.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslFlowProtection/inc/mcuxCsslFlowProtection_Cfg.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslSecureCounter/inc/mcuxCsslSecureCounter_Cfg.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslFlowProtection/inc/mcuxCsslFlowProtection_SecureCounter_Common.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslCPreProcessor/inc/mcuxCsslCPreProcessor.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslSecureCounter/inc/mcuxCsslSecureCounter.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslSecureCounter/inc/mcuxCsslSecureCounter_Impl.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslSecureCounter/inc/mcuxCsslSecureCounter_SW_Local.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdint.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxCsslFlowProtection/inc/mcuxCsslFlowProtection_SecureCounter_Local.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdbool.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClCore/inc/mcuxClCore_FunctionIdentifiers.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Constants.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Types.h \
+ /usr/lib/gcc/arm-none-eabi/13.2.1/include/stddef.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Endianness.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Clear.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Copy.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Copy_Reversed.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClCore/inc/mcuxClCore_Platform.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Set.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/comps/mcuxClMemory/inc/mcuxClMemory_Xor.h \
+ /home/user/Downloads/sdk2/components/els_pkc/src/compiler/mcuxClToolchain.h
